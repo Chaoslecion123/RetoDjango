@@ -1,6 +1,8 @@
 # RetoDjango
 es un reto con django
 
+# No hay validaciones en el formulario poner los datos que pidens
+
 Mini reto python/django
 
 Enunciado: Hacer un aplicación en django, que me permita crear usuarios, simular el envío de correos en paralelo y mostrar el listado en cliente(No admin).
